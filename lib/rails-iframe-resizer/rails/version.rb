@@ -1,6 +1,6 @@
 module IframeResizer
   module Rails
-    VERSION = "0.1.0"
-    IFRAME_RESIZER_VERSION = "2.7.1"
+    VERSION = "0.2.0"
+    IFRAME_RESIZER_VERSION = "3.5.14"
   end
 end
