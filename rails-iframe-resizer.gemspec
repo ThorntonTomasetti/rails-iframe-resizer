@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
   s.files       = Dir["{app,lib}/**/*"] + ["MIT-LICENSE", "Gemfile", "README.md"]
   s.version     = IframeResizer::Rails::VERSION
 
-  s.add_dependency "railties", ">= 3.1.0", "< 6.0"
+  s.add_dependency "railties", ">= 3.1.0"
 end
